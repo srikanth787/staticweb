@@ -1,0 +1,2 @@
+# staticweb
+mystatic website testing
